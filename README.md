@@ -1,0 +1,1 @@
+Este é um projeto onde o usuario vai escolher uma das opções exibidas, a primeira é para adicionar um nome, a segunda é para remover o nome basta digitar o nome que será removido e pronto, a  terceira é para exibir a lista dos nomes e se caso nao tiver nenhum nome na lista uma mensagem derro aparecerá, e a ultima opção é para sair do programa (finalizar).
